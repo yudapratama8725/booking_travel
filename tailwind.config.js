@@ -9,7 +9,8 @@ module.exports = {
       colors : {
         "ungu" : '#5D50C6',
         "pink" : '#F85E9F',
-        "orange" : '#FF5722'
+        "orange" : '#FF5722',
+        "grey" : '#222831',
       }
     },
   },
